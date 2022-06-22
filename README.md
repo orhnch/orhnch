@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @orhnch
 - 👀 I’m interested in Java programming.
-- 🌱 I’m currently learning Java and SQL.
+- 🌱 I’m currently learning Java and Java Spring
 - 📫 How to reach me
 - LinkedIn : https://www.linkedin.com/in/orhancakmak/
 
