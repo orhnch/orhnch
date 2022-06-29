@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @orhnch
+# 👋 Hi, I’m @orhnch
 - 👀 I’m interested in Java programming.
 - 🌱 I’m currently learning Java and Java Spring
 - 📫 How to reach me
