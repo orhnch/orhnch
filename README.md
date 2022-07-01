@@ -1,3 +1,5 @@
+![](https://c.tenor.com/f4eKzaPOZUYAAAAd/rz-ds-project.gif)
+
 <h1 align="center">Hi 👋, I'm Orhan</h1>
 <h3 align="center">A computer programming learner from Turkey</h3>
 
