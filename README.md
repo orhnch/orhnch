@@ -1,4 +1,4 @@
-<img src="https://c.tenor.com/f4eKzaPOZUYAAAAd/rz-ds-project.gif" class="center">
+<img src="https://c.tenor.com/f4eKzaPOZUYAAAAd/rz-ds-project.gif" class="center" width=200 />
 
 <h1 align="center">Hi 👋, I'm Orhan</h1>
 <h3 align="center">A computer programming learner from Turkey</h3>
