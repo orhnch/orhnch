@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://c.tenor.com/f4eKzaPOZUYAAAAd/rz-ds-project.gif" width=500 />
+  <img src="https://c.tenor.com/f4eKzaPOZUYAAAAd/rz-ds-project.gif" width=500 height=200 />
 </p>
 
 <h1 align="center">Hi 👋, I'm Orhan</h1>
