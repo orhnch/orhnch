@@ -45,9 +45,5 @@
 
  </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=orhnch&show_icons=true&locale=en&layout=compact" alt="orhnch" /></p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=orhnch&show_icons=true&locale=en" alt="orhnch" /></p>
-
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=orhnch&" alt="orhnch" /></p>
 
