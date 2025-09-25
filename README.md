@@ -1,12 +1,3 @@
-<p align="center">
-  <img src="https://c.tenor.com/f4eKzaPOZUYAAAAd/rz-ds-project.gif" width=500 height=200 />
-</p>
-
-
-
-
-
-
 
 <h1 align="center">Hi 👋, I'm Orhan CAKMAK</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
