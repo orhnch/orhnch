@@ -61,4 +61,3 @@
 <p align="center">
   <i>"Building reliable systems with clean architecture and continuous learning."</i>
 </p>
-```
