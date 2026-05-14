@@ -17,7 +17,7 @@
 <h2>🚀 Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,typescript,javascript,nextjs,nodejs,nestjs,python,redis,mysql,postgres,docker,linux,git,github,jenkins" />
+  <img src="https://skillicons.dev/icons?i=java,spring,typescript,javascript,nextjs,nodejs,nestjs,python,elasticsearch,redis,mysql,postgres,docker,linux,git,github,bitbucket,cloudflare,jenkins" />
 </p>
 
 ---
