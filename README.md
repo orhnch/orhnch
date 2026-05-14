@@ -3,9 +3,9 @@
 <h3 align="center">A passionate software developer from Turkey</h3>
 
 
-- 🌱 I’m currently learning **Spring Boot, Redis, Elasticsearch, Kafka**
+- 🌱 I’m currently learning **JavaScript, TypeScript, Next.Js, Nest.Js**
 
-- 💬 Ask me about **Java, Elasticsearch**
+- 💬 Ask me about **Java, Spring Boot, Elasticsearch**
 
 - 📫 How to reach me **orhancakmakeng@gmail.com**
 
