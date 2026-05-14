@@ -1,46 +1,74 @@
 <h1 align="center">Hi, I'm Orhan 👋</h1>
 
 <p align="center">
-Backend Developer • Java & Spring Boot Enthusiast
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Backend+Developer;Java+%26+Spring+Boot+Enthusiast;Building+Scalable+Systems;Learning+TypeScript+%26+Next.js;Always+Exploring+New+Technologies" alt="Typing SVG" />
 </p>
 
 <p align="center">
-I build scalable backend systems, secure APIs, and modern web applications.
-Currently exploring TypeScript, Next.js, and full-stack development.
+  Backend Developer focused on scalable architectures, secure APIs, and modern web technologies.
+</p>
+
+<p align="center">
+  Currently experimenting with JavaScript, TypeScript, Next.js, and full-stack development.
 </p>
 
 ---
 
-<h3>🚀 Tech Stack</h3>
+<h2>🚀 Tech Stack</h2>
 
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,typescript,javascript,nextjs,nodejs,nestjs,python,redis,mysql,postgres,docker,linux,git,github,jenkins" />
 </p>
 
 ---
 
-<h3>💡 About Me</h3>
+<h2>📈 GitHub Stats</h2>
 
-<ul>
-  <li>Building scalable backend systems with Java & Spring Boot</li>
-  <li>Interested in system architecture and search infrastructures</li>
-  <li>Exploring modern frontend technologies and full-stack workflows</li>
-  <li>Passionate about clean, maintainable, and sustainable software</li>
-</ul>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=orhnch&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orhnch&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-<h3>📫 Contact</h3>
+<h2>🔥 Current Focus</h2>
 
-<p>
-<a href="https://github.com/orhnch">GitHub</a> •
-<a href="https://linkedin.com/in/orhancakmak">LinkedIn</a> •
-<a href="mailto:orhancakmakeng@gmail.com">E-mail</a>
+<pre>
+✓ Scalable Backend Systems
+✓ Spring Boot & Java Ecosystem
+✓ Elasticsearch & Redis
+✓ Authentication & Security
+✓ TypeScript & Next.js
+✓ Full-Stack Development
+✓ AI Integrations & Automation
+</pre>
+
+---
+
+<h2>🌐 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://github.com/orhnch">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://linkedin.com/in/orhancakmak">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:orhancakmakeng@gmail.com">
+    <img src="https://img.shields.io/badge/E--Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=orhnch&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  <i>"Building reliable systems with clean architecture and continuous learning."</i>
+</p>
+```
