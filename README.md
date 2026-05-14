@@ -1,97 +1,46 @@
-# Hi there, I'm Orhan 👋
+<h1 align="center">Hi, I'm Orhan 👋</h1>
 
-## Backend Developer | Java & Spring Boot Enthusiast
+<p align="center">
+Backend Developer • Java & Spring Boot Enthusiast
+</p>
 
-I enjoy building scalable, secure, and maintainable software systems with a strong focus on backend development and system architecture. My primary experience is centered around Java and Spring Boot ecosystems, where I have worked on enterprise applications, authentication systems, search infrastructures, and high-performance backend services.
-
-I am passionate about learning new technologies and continuously improving my development workflow. Recently, I have been actively exploring modern web technologies such as JavaScript, TypeScript, Next.js, and Node.js through personal projects and experiments.
-
-I like solving real-world problems, optimizing systems, and creating software that is both practical and sustainable.
-
----
-
-## 🚀 Tech Stack
-
-### Backend
-- Java
-- Spring Boot
-- Hibernate / JPA
-- REST API Development
-- JWT Authentication
-- Redis
-- Elasticsearch (ELK)
-- Clean Architecture
-- CQRS
-
-### Frontend & Full Stack
-- JavaScript
-- TypeScript
-- Next.js
-- Node.js
-- NestJS
-
-### Database & Infrastructure
-- MySQL
-- PostgreSQL
-- Docker
-- Linux
-- Jenkins
-- Git & GitHub
-
-### Tools
-- IntelliJ IDEA
-- VS Code
-- Postman
-- Maven
-- Gradle
-- Jira
-- Bitbucket
+<p align="center">
+I build scalable backend systems, secure APIs, and modern web applications.
+Currently exploring TypeScript, Next.js, and full-stack development.
+</p>
 
 ---
 
-## 💡 What I Enjoy Working On
+<h3>🚀 Tech Stack</h3>
 
-- Backend architectures
-- Search systems & Elasticsearch
-- API development
-- Authentication & security
-- Full-stack applications
-- Performance optimization
-- Developer tools & automation
-- Scalable system design
-
----
-
-## 🌱 Currently Exploring
-
-- Advanced TypeScript patterns
-- Next.js ecosystem
-- Modern frontend architecture
-- Full-stack development workflows
-- AI integrations & automation systems
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
 ---
 
-## 📌 Featured Interests
+<h3>💡 About Me</h3>
 
-- Enterprise software
-- System architecture
-- Search engines
-- Clean code principles
-- Modern web technologies
-- Open-source projects
-- Continuous learning
-
----
-
-## 📫 Contact
-
-- GitHub: https://github.com/orhnch
-- LinkedIn: https://linkedin.com/in/orhancakmak
-- E-mail: orhancakmakeng@gmail.com
+<ul>
+  <li>Building scalable backend systems with Java & Spring Boot</li>
+  <li>Interested in system architecture and search infrastructures</li>
+  <li>Exploring modern frontend technologies and full-stack workflows</li>
+  <li>Passionate about clean, maintainable, and sustainable software</li>
+</ul>
 
 ---
 
-## ⚡ Fun Fact
+<h3>📫 Contact</h3>
 
-I enjoy combining engineering logic with software development to build systems that are efficient, reliable, and designed for long-term sustainability.
+<p>
+<a href="https://github.com/orhnch">GitHub</a> •
+<a href="https://linkedin.com/in/orhancakmak">LinkedIn</a> •
+<a href="mailto:orhancakmakeng@gmail.com">E-mail</a>
+</p>
